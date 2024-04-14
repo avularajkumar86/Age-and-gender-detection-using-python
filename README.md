@@ -57,6 +57,7 @@
 
 
 <h2>Examples :</h2>
-<p><b>NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for Educational purpose.</b></p>
+<p><b>NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for future  purpose.</b></p>
+
 
    
