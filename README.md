@@ -45,7 +45,7 @@
 </ul>
   <p><b>Note: </b>The Image should be present in same folder where all the files are present</p> 
 <ul>
-  <li><b>Detecting Gender and Age of face through webcam</b> Use Command :</li>
+  <li><b>Detecting  Age of insulator through image </b> Use Command :</li>
   
       python detect.py
 </ul>
