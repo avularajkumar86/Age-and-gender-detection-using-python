@@ -8,7 +8,7 @@
 <p>In this Python Project, I had used Deep Learning to accurately identify the aging of insulators  <a href="https://ars.els-cdn.com/content/image/1-s2.0-S0142941823001034-gr2_lrg.jpg</a>. The age is predicted as per usage of insulator when it is exposed to air  .</p>
 
 <h2>Dataset :</h2>
-<p>For this python project, I had used the Adience dataset; the dataset is available in the public domain and you can find it <a href="https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification">here</a>. This dataset serves as a benchmark for face photos and is inclusive of various real-world imaging conditions like noise, lighting, pose, and appearance. The images have been collected from Flickr albums and distributed under the Creative Commons (CC) license. It has a total of 26,580 photos of 2,284 subjects in eight age ranges (as mentioned above) and is about 1GB in size. The models I used had been trained on this dataset.</p>
+<p>For this python project, I had used the Adience dataset; the dataset is available in the public domain and you can find it <a href="https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification">here</a>. This dataset serves as a benchmark for face photos and is inclusive of various real-world imaging conditions like noise, lighting, hydrophobic, and appearance. The images have been collected from drones taken /from the data set and distributed under the Creative Commons (CC) license. It has a total of 13,000 photos of Labels :5373 photos containing the Val, Train,Test  subjects  and is about 1GB in size. The models I used had been trained on this dataset.</p>
 
 <h2>Additional Python Libraries Required :</h2>
 <ul>
